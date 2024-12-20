@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @huiyak
-- 👀 I’m interested in house sistem security
+- 👀 I’m interested in server/house sistem security
 - 🌱 I’m currently learning java/linux/cybersecurity
 - 💞️ I’m looking to collaborate on ...house sistem security
 - 📫 How to reach me  ..just mail me on wuz5gam5@anonaddy.com your link on Element or SimpleX
