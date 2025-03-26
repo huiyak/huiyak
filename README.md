@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @huiyak
-- 👀 I’m interested in server/house sistem security
-- 🌱 I’m currently learning java/linux/cybersecurity
-- 💞️ I’m looking to collaborate on ...house sistem security
-- 📫 How to reach me  ..just mail me on wuz5gam5@anonaddy.com your link on Element or SimpleX
-- 😄 Pronouns: he/it
-- ⚡ Fun fact: i speak russian and spanish
-- 
+- 👋 Привет, я @huiyak
+- 👀 Ménya itherteresouet безопафтия systém serverra/doma
+- 🌱 Сейчес ява/линукс/кибербезопасть
+- ?? ♪ Ю-сотрудничество в обозноме
+- 📫 Как связься со мной..призвание в том, что нет на wuz5gam5@anonaddy.com, по вашей школе на SimpleX
+- 😄 Местоимения: плеват
+- ⚡ Забавный факт: ya lulublluy moré
+- я знаю HTML и CSS
 
 <!---
-huiyak/huiyak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+хуйяк/хуйяк - это специалый репозитории ✨ ✨, poscolyku egogo `README.md` (этот фалил) появляеця в вашем профили GitHub.
+Вы с удоволом использовали "Предварительный проспект", что такое мое поведение в своей истории.
 --->
